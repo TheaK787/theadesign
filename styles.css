@@ -1,0 +1,79 @@
+.January {
+    text-align: left;
+    inline-size: 40%;
+    display: inline-block;
+    position: absolute;
+    left: 100px;
+}
+
+.February {
+    display: inline-block;
+    text-align: left;
+    inline-size: 40%;
+    position: absolute;
+    right: 100px;
+}
+
+#March {
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    position: relative;
+    left: 200px;
+    padding: 20px;
+}
+
+.April {   
+    display: inline-block;
+    text-align: left;
+    inline-size: 40%;
+    position: absolute;
+    right: 100px;
+}
+
+.May {
+    text-align: left;
+    inline-size: 40%;
+    display: inline-block;
+    position: absolute;
+    left: 100px;
+}
+
+#June {
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    position: relative;
+    left: 750px;
+}
+
+a {
+    padding: 20px;
+}
+
+body {
+    background-color: antiquewhite;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+#One {
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    position: relative;
+}
+
+table {
+    border: 3px solid black;
+    position: relative;
+    left: 500px;
+}
+
+.Bob {
+    position: relative;
+    left: 410px;
+}
